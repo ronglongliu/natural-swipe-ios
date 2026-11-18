@@ -1,0 +1,14 @@
+Natural Swipe Universal
+
+This project is maintained by the repository owner and contributors.
+
+The project is licensed under the Apache License, Version 2.0. See LICENSE.
+
+Third-party references and notices:
+- KIF, Apache License 2.0. See licenses/KIF-NOTICE.txt and licenses/Apache-2.0.txt.
+- PTFakeTouch, IOS13-SimulateTouch/ZXTouch, iolate/SimulateTouch, and Theos headers are documented in THIRD_PARTY.md.
+
+Chinese development note:
+本项目是目标 App 进程内触摸实现，不是系统全局顶层触摸，也不注入 SpringBoard。
+
+本项目由作者在真实越狱设备环境中开发和测试，获得 OpenAI 辅助开发，包括代码设计、调试分析、文档整理和 GitHub 发布协助。OpenAI 不属于本项目的版权所有者或维护者。

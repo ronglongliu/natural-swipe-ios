@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+*.ips
+*.o
+*.dylib.bak
+build/
+/tmp/
+private/
+secrets/
+*.plist
+!src/*.h
+!src/*.m

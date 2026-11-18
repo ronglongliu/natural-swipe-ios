@@ -1,0 +1,1 @@
+7a49cdd4ae1fbadfed07797384f641934cadbe945c370b232e7ea3b325f9e468  /var/minis/workspace/natural-swipe-github-20261118/dist/NaturalSwipeUniversal.dylib
